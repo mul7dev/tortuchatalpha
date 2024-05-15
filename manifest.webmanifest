@@ -1,0 +1,12 @@
+{
+  "name": "Chat",
+  "short_name": "Chat",
+  "id": "com.example.gamename",
+  "description": "Send Button icon by Icons8",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
